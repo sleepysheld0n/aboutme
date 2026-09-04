@@ -19,5 +19,5 @@
 ---
 
 ## 💡 Motto
-*"Don't be Horny,Be Happy!"*
+*"Don't be Horny, Be Happy!"*
 .
