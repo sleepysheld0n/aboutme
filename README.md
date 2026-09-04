@@ -12,7 +12,7 @@
 
 ## 🌐 Connect with me
 
-![Spotify]("https://cdn.simpleicons.org/spotify/1ED760" width="35" height="35" alt="Spotify") ![Reddit](https://cdn.simpleicons.org/reddit/FF4500) ![Instagram](https://cdn.simpleicons.org/instagram/E4405F)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
 
 
 
